@@ -1,6 +1,6 @@
 # baldrcat
 
-![baldrcat](http://www.clipartbest.com/cliparts/dcr/Me5/dcrMe5qc9.png)
+<img alt="baldrcat" height="400px" src="http://www.clipartbest.com/cliparts/dcr/Me5/dcrMe5qc9.png"/>
 
 Tool to help debug data infrastructure. Can cat the records contained in Baldr files on S3.
 
